@@ -1,0 +1,40 @@
+[
+  {
+    "login": "mnovackova",
+    "id": 18664225,
+    "avatar_url": "https://avatars7.githubusercontent.com/u/18664225?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mnovackova",
+    "html_url": "https://github.com/mnovackova",
+    "followers_url": "https://api.github.com/users/mnovackova/followers",
+    "following_url": "https://api.github.com/users/mnovackova/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mnovackova/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mnovackova/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mnovackova/subscriptions",
+    "organizations_url": "https://api.github.com/users/mnovackova/orgs",
+    "repos_url": "https://api.github.com/users/mnovackova/repos",
+    "events_url": "https://api.github.com/users/mnovackova/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mnovackova/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "zirafa",
+    "id": 618886,
+    "avatar_url": "https://avatars4.githubusercontent.com/u/618886?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rnovacek",
+    "html_url": "https://github.com/rnovacek",
+    "followers_url": "https://api.github.com/users/rnovacek/followers",
+    "following_url": "https://api.github.com/users/rnovacek/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rnovacek/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rnovacek/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rnovacek/subscriptions",
+    "organizations_url": "https://api.github.com/users/rnovacek/orgs",
+    "repos_url": "https://api.github.com/users/rnovacek/repos",
+    "events_url": "https://api.github.com/users/rnovacek/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rnovacek/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]
